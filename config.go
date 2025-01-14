@@ -1,4 +1,4 @@
-package http2string
+package Http2string
 
 import (
 	"net/http"
